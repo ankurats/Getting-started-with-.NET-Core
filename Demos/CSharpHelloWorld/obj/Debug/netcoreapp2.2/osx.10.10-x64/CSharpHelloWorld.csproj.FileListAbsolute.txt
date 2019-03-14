@@ -1,0 +1,14 @@
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\osx.10.10-x64\libhostpolicy.dylib
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\osx.10.10-x64\libhostfxr.dylib
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\osx.10.10-x64\CSharpHelloWorld
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\osx.10.10-x64\CSharpHelloWorld.deps.json
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\osx.10.10-x64\CSharpHelloWorld.runtimeconfig.json
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\osx.10.10-x64\CSharpHelloWorld.runtimeconfig.dev.json
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\osx.10.10-x64\CSharpHelloWorld.dll
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\osx.10.10-x64\CSharpHelloWorld.pdb
+D:\today\CSharpHelloWorld\obj\Debug\netcoreapp2.2\osx.10.10-x64\CSharpHelloWorld.csprojAssemblyReference.cache
+D:\today\CSharpHelloWorld\obj\Debug\netcoreapp2.2\osx.10.10-x64\CSharpHelloWorld.csproj.CoreCompileInputs.cache
+D:\today\CSharpHelloWorld\obj\Debug\netcoreapp2.2\osx.10.10-x64\CSharpHelloWorld.AssemblyInfoInputs.cache
+D:\today\CSharpHelloWorld\obj\Debug\netcoreapp2.2\osx.10.10-x64\CSharpHelloWorld.AssemblyInfo.cs
+D:\today\CSharpHelloWorld\obj\Debug\netcoreapp2.2\osx.10.10-x64\CSharpHelloWorld.dll
+D:\today\CSharpHelloWorld\obj\Debug\netcoreapp2.2\osx.10.10-x64\CSharpHelloWorld.pdb

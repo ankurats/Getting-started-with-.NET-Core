@@ -1,0 +1,14 @@
+D:\today\WebHelloWorld\bin\Debug\netcoreapp2.2\WebHelloWorld.deps.json
+D:\today\WebHelloWorld\bin\Debug\netcoreapp2.2\WebHelloWorld.runtimeconfig.json
+D:\today\WebHelloWorld\bin\Debug\netcoreapp2.2\WebHelloWorld.runtimeconfig.dev.json
+D:\today\WebHelloWorld\bin\Debug\netcoreapp2.2\WebHelloWorld.dll
+D:\today\WebHelloWorld\bin\Debug\netcoreapp2.2\WebHelloWorld.pdb
+D:\today\WebHelloWorld\obj\Debug\netcoreapp2.2\WebHelloWorld.csprojAssemblyReference.cache
+D:\today\WebHelloWorld\obj\Debug\netcoreapp2.2\WebHelloWorld.csproj.CoreCompileInputs.cache
+D:\today\WebHelloWorld\obj\Debug\netcoreapp2.2\WebHelloWorld.RazorAssemblyInfo.cache
+D:\today\WebHelloWorld\obj\Debug\netcoreapp2.2\WebHelloWorld.RazorAssemblyInfo.cs
+D:\today\WebHelloWorld\obj\Debug\netcoreapp2.2\WebHelloWorld.AssemblyInfoInputs.cache
+D:\today\WebHelloWorld\obj\Debug\netcoreapp2.2\WebHelloWorld.AssemblyInfo.cs
+D:\today\WebHelloWorld\obj\Debug\netcoreapp2.2\WebHelloWorld.RazorTargetAssemblyInfo.cache
+D:\today\WebHelloWorld\obj\Debug\netcoreapp2.2\WebHelloWorld.dll
+D:\today\WebHelloWorld\obj\Debug\netcoreapp2.2\WebHelloWorld.pdb

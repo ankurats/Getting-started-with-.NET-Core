@@ -1,0 +1,11 @@
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\CSharpHelloWorld.deps.json
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\CSharpHelloWorld.runtimeconfig.json
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\CSharpHelloWorld.runtimeconfig.dev.json
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\CSharpHelloWorld.dll
+D:\today\CSharpHelloWorld\bin\Debug\netcoreapp2.2\CSharpHelloWorld.pdb
+D:\today\CSharpHelloWorld\obj\Debug\netcoreapp2.2\CSharpHelloWorld.csprojAssemblyReference.cache
+D:\today\CSharpHelloWorld\obj\Debug\netcoreapp2.2\CSharpHelloWorld.csproj.CoreCompileInputs.cache
+D:\today\CSharpHelloWorld\obj\Debug\netcoreapp2.2\CSharpHelloWorld.AssemblyInfoInputs.cache
+D:\today\CSharpHelloWorld\obj\Debug\netcoreapp2.2\CSharpHelloWorld.AssemblyInfo.cs
+D:\today\CSharpHelloWorld\obj\Debug\netcoreapp2.2\CSharpHelloWorld.dll
+D:\today\CSharpHelloWorld\obj\Debug\netcoreapp2.2\CSharpHelloWorld.pdb
